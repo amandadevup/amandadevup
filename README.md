@@ -1,13 +1,12 @@
-<h1 align="center">🎧 Bem-vinda(o) ao meu perfil!</h1>
-<h3 align="center">Sou a Amanda, desenvolvedora apaixonada por tecnologia, design e experiências digitais!</h3>
+<h1 align="center">Olá, sou a Amanda!</h1>
+<h3 align="center">Desenvolvedora apaixonada por tecnologia, design e experiências digitais!</h3>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💡 Entusiasta de **Front-end** e **Back-end** com foco em projetos completos e bem estruturados  
-🧠 Atualmente aprendendo **PHP com MVC**, **Java**, **C#** e **Boas Práticas de Segurança e Validação**  
+💡 Entusiasta de **Front-end** e **Back-end** com foco em projetos completos e bem estruturados   
 📌 Criadora do **Pulse**, um projeto que conecta pessoas e eventos com praticidade
 
 ---
@@ -21,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -40,21 +38,13 @@
 
 🛠️ Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `MVC`
 
-🔧 Status: *Em desenvolvimento contínuo*
-
----
-
-### 📈 Estatísticas
-
-![Amanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandadevup&show_icons=true&theme=radical&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandadevup&layout=compact&theme=radical)
+🔧 Status: *Em desenvolvimento*
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
-📬 Me chame no [LinkedIn](https://linkedin.com/in/amandadevup)  
-📌 Repositórios em destaque aqui no GitHub  
+📬 Me chame no [LinkedIn](https://linkedin.com/in/amandadevup)    
 💬 Sempre aberta para trocar ideias, colaborar ou ajudar!
 
 ---
