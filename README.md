@@ -3,15 +3,10 @@
 
 ---
 
-### 👩‍💻 Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💡 Entusiasta de **Front-end** e **Back-end** com foco em projetos completos e bem estruturados   
 📌 Criadora do **Pulse**, um projeto que conecta pessoas e eventos com praticidade
 
 ---
-
-### 🌐 Tecnologias que utilizo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
