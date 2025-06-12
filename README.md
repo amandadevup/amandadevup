@@ -3,15 +3,14 @@
 
 ---
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📚 Estudando **HTML, CSS, JavaScript, PHP, Java, C# e Banco de Dados**  
+
+
 🛠️ Desenvolvendo o **Pulse**, uma bilheteira digital inspirada na Pixta  
-🌱 Em constante evolução, aprendendo com desafios reais  
-🎯 Foco em desenvolvimento **Front-end e Back-end**
+
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que uso:
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
