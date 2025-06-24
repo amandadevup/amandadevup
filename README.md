@@ -20,6 +20,7 @@
 ---
 
 🎟️ Pulse – Sistema de Gerenciamento de Eventos
+
 Uma plataforma web fullstack criada por mim, com foco em boas práticas, segurança e experiência do usuário.
 O Pulse nasceu de um simples trabalho de final de semestre… virou meu projeto de portfólio… e hoje é meu case pessoal de evolução como dev. 🚀
 
